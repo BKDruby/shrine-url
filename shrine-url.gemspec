@@ -2,7 +2,7 @@ Gem::Specification.new do |gem|
   gem.name          = "shrine-url"
   gem.version       = "2.4.1"
 
-  gem.required_ruby_version = ">= 2.1"
+  gem.required_ruby_version = ">= 2.0"
 
   gem.summary      = "Provides a fake storage which allows you to create a Shrine attachment defined only by a custom URL."
   gem.homepage     = "https://github.com/shrinerb/shrine-url"
